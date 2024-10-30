@@ -1,0 +1,6 @@
+framework module AUWebOptimizer {
+  umbrella header "AUWebOptimizer-umbrella.h"
+
+  export *
+  module * { export * }
+}

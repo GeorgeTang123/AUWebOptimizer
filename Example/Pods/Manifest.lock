@@ -1,0 +1,16 @@
+PODS:
+  - AUWebOptimizer (0.1.0)
+
+DEPENDENCIES:
+  - AUWebOptimizer (from `../`)
+
+EXTERNAL SOURCES:
+  AUWebOptimizer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AUWebOptimizer: 4566e5a523c6a120534f73efae1db5a623c2a66f
+
+PODFILE CHECKSUM: ecfe96c7a041a78d6a191a1c0729900d8acb75b0
+
+COCOAPODS: 1.15.2

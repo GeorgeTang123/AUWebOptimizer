@@ -1,0 +1,6 @@
+framework module Pods_AUWebOptimizer_Example {
+  umbrella header "Pods-AUWebOptimizer_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
